@@ -1,0 +1,13 @@
+# 文本切片（Chunk）练习依赖
+
+# LangChain - 提供核心功能
+langchain
+
+# LangChain文本分割器 - 提供RecursiveCharacterTextSplitter
+langchain-text-splitters
+
+# scikit-learn - 提供余弦相似度计算
+scikit-learn
+
+# numpy - 提供数组操作
+numpy

@@ -1,0 +1,22 @@
+# BGE Embedding 练习依赖
+
+# Sentence-Transformers - 提供BGE模型的简单接口
+sentence-transformers
+
+# Transformers - 提供底层模型访问
+transformers
+
+# PyTorch - 深度学习框架
+torch
+
+# NumPy - 数组操作
+numpy
+
+# scikit-learn - 相似度计算
+scikit-learn
+
+# 可选：Milvus客户端（用于向量数据库集成）
+pymilvus
+
+# 可选：FAISS（用于本地向量索引）
+faiss-cpu

@@ -1,0 +1,4 @@
+docling
+pypdf2
+python-docx
+openpyxl

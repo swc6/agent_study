@@ -1,0 +1,19 @@
+# 混合检索练习项目依赖
+
+# 向量检索相关
+sentence-transformers
+numpy
+scikit-learn
+
+# BM25 检索相关
+rank-bm25
+jieba
+
+# 重排序模型（可选）
+sentence-transformers[all]
+
+# 数据处理（可选）
+pandas
+
+# 可视化（可选）
+matplotlib
