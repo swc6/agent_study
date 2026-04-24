@@ -1,0 +1,15 @@
+# 依赖包列表
+
+# 核心依赖
+langchain
+langchain-community
+
+# 其他依赖
+python-dotenv
+dashscope
+
+# 版本建议
+langchain>=0.1.0
+langchain-community>=0.0.1
+python-dotenv>=1.0.0
+dashscope>=1.0.0
