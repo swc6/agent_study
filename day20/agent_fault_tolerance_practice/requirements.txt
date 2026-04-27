@@ -1,0 +1,13 @@
+# 依赖包列表
+
+# 核心依赖
+sentence-transformers
+numpy
+
+# 其他依赖
+python-dotenv
+
+# 版本建议
+sentence-transformers>=2.0.0
+numpy>=1.20.0
+python-dotenv>=1.0.0

@@ -1,0 +1,19 @@
+# 依赖包列表
+
+# 核心依赖
+langchain
+langchain-community
+
+# 其他依赖
+python-dotenv
+
+# 向量存储依赖
+faiss-cpu
+sentence-transformers
+
+# 版本建议
+langchain>=0.1.0
+langchain-community>=0.0.1
+python-dotenv>=1.0.0
+faiss-cpu>=1.7.0
+sentence-transformers>=2.0.0
